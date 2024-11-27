@@ -1,0 +1,63 @@
+table{
+    text-align: center;
+    border-collapse: collapse;
+    width: 1500px;
+    height: 300px;
+}
+caption{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}
+tr,td{
+    background-color: green;
+}
+.xop{
+    color: white;
+    background-color: red;
+}
+.xop2{
+    color: white;
+    background-color: black;
+}
+.xop3{
+    background-color: black;
+    color: white;
+}
+.xop4{
+    background-color: yellow;
+    color: black;
+}
+.xop5{
+    background-color: black;
+    color: white;
+}
+.xop6{
+    background-color: red;
+    color: white;
+}
+.xop7{
+    background-color: yellow;
+    color: black;
+}
+.xop8{
+    background-color: black;
+    color: white;
+}
+.xop9{
+    background-color: black;
+    color: white;
+}
+.xop10{
+    background-color: yellow;
+    color: black;
+}
+.xop11{
+    background-color: red;
+    color: white;
+}
+.xop12{
+    background-color: black;
+    color: white;
+}
